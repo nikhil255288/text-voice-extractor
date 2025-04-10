@@ -1,0 +1,9 @@
+streamlit
+pytesseract
+gTTS
+Pillow
+numpy
+googletrans==4.0.0-rc1
+easyocr
+firebase-admin
+langdetect
