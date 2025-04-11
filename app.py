@@ -12,7 +12,7 @@ from io import BytesIO
 
 # ------------------🔥 FIREBASE SETUP ------------------
 if not firebase_admin._apps:
-    cred = credentials.Certificate("/content/translate-ocr-app-firebase-adminsdk-fbsvc-64596fd124.json")
+    cred = credentials.Certificate("translate-ocr-app-firebase-adminsdk-fbsvc-64596fd124.json")
     firebase_admin.initialize_app(cred)
 db = firestore.client()
 
