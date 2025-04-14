@@ -4,9 +4,6 @@ import easyocr
 from googletrans import Translator
 from langdetect import detect
 from gtts import gTTS
-import os
-import json
-import uuid
 import numpy as np
 from io import BytesIO
 
