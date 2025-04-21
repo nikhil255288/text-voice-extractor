@@ -7,3 +7,10 @@ googletrans==4.0.0-rc1
 easyocr
 firebase-admin
 langdetect
+streamlit-option-menu
+python-dotenv
+openai
+requests
+pydub
+ffmpeg-python
+google-cloud-storage
